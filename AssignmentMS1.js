@@ -1,6 +1,6 @@
 let dog1=20;
 let dog2=0;
-let dog3=0;
+
 
 let totalcount=dog1+dog2;
 
